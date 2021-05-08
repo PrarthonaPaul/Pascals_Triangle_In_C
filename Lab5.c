@@ -1,6 +1,6 @@
 /*
  * File name:           Lab5.c
- * Author:              Prarthona Paul (1007001272)
+ * Author:              Prarthona Paul 
  * Date:                Feb 22, 2021
  * Description:         This program takes the dimension input from the user between 0 and 13 and
  *                      creates a pascals triangle based on that. 
